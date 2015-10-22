@@ -1,2 +1,2 @@
-# idea_configuration
-Idea configuration
+# Idea Configuration Files
+Idea configuration files and theme color
